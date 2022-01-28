@@ -434,3 +434,4 @@ C:\Users\DELL\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Item\I
 C:\Users\DELL\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Item\Create.cshtml.g.cs
 C:\Users\DELL\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Create.cshtml.g.cs
 C:\Users\DELL\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Index.cshtml.g.cs
+C:\Users\DELL\source\repos\InAndOut\InAndOut\obj\Debug\net5.0\Razor\Views\Expense\Delete.cshtml.g.cs

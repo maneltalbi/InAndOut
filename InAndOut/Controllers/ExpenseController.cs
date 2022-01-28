@@ -17,9 +17,9 @@ namespace InAndOut.Controllers
         }
         public IActionResult Index()
         {
-            // IEnumerable<Expense> objList = _db.Expenses;
-            // return View(objList);
-            return View();
+          IEnumerable<Expense> objList = _db.Expenses;
+           return View(objList);
+            
         }
         //get create
         public IActionResult Create()
